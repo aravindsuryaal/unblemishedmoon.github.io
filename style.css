@@ -1,0 +1,91 @@
+body {
+	margin: 0px;
+	background-image: url('Pictures/1.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;	
+}
+
+.heading1 {
+	left: 25px;
+	color: #000;
+	position: relative;
+	font-family: Century Gothic;
+	font-size: 30px;
+	top: 45px;
+	float: left;
+}
+
+.heading2 {
+	left: 35px;
+	color: #000;
+	position: absolute;
+	font-family: Century Gothic;
+	font-size: 50px;
+	top: 70px;
+	float: left;
+	
+}
+
+.nav ul {
+	text-align: center;
+	list-style-type: none;
+	word-spacing: 30px;
+	font-family: Montserrat Regular;
+	font-size: 15px;
+	margin-top: 0px;
+	padding-top: 50px;
+	padding-right: 50px;
+}
+
+.nav li {
+	display: inline-block;
+	font-weight: 500;
+}
+
+.nav li:hover {
+	color: #000;
+}
+
+.active  {
+	
+	color: #000;
+}
+
+.unactive {
+	color: #9d9d9d;
+}
+
+.lady {
+	text-align: right;	
+}
+
+.lady img {
+	width: 400px;
+	padding-top: 50px;
+	float: right;
+}
+
+.cap1 {
+	font-size: 80px;
+	font-family: Century Gothic;
+	padding-top: 185px;
+	padding-left: 150px;
+	position: absolute;
+}
+
+.cap2 {
+	font-size: 80px;
+	font-family: Century Gothic;
+	padding-top: 260px;
+	padding-left: 150px;
+	position: absolute;
+
+}
+
+.cap3 {
+	font-size: 120px;
+	font-family: Century Gothic;
+	padding-left: 145px;
+	padding-top: 320px;
+	position: absolute;
+}
